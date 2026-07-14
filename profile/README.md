@@ -1,7 +1,5 @@
-# .github
-
 <p align="center">
-  <img src="https://raw.githubusercontent-Lab/.github/main/banner.png
+  </Designer%20(4).pngCryan Lab Banner">
 </p>
 
 # Cryan Lab
