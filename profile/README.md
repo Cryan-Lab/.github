@@ -2,7 +2,8 @@
 
 
 <p align="center">
-  ../banner.png
+  
+ <img srcraw.githubusercontent.com/Cryan-Lab/.github/main/banner.png
 </p>
 
 # Cryan Lab
