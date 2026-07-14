@@ -1,6 +1,4 @@
-<p align="center">
-  <img nner.png
-</p>
+![Cryan Lab Banner](https://raw.githubusercontent.comain/banner.png
 
 # Cryan Lab
 
