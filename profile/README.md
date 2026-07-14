@@ -1,5 +1,5 @@
 <p align="center">
-  " alt="Cryan Lab Banner">
+  ../banner.pngCryan Lab Banner">
 </p>
 
 # Cryan Lab
