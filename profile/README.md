@@ -1,5 +1,4 @@
-
-![Cryan Lab Banner](https://raw.m/Cryan-Lab/.github/main/banner.png
+![Cryan/raw.githubusercontent.com/Cryan-Lab/.github/main/banner.png
 
 # Cryan Lab
 
