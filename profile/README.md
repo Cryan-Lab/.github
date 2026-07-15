@@ -1,11 +1,3 @@
-![Cryan Lab Banner](./banner.png)
-
-<h1 align="center">Cryan Lab</h1>
-
-<p align="center">
-Exploring the microbiome–gut–brain axis to understand brain function, behaviour, and mental health.
-</p>
-
 ---
 
 ## Research Areas
