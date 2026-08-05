@@ -17,7 +17,29 @@ Our lab is located at [APC Microbiome Ireland](https://www.ucc.ie/en/apc/) in Un
 - Early-life stress
 - Host–microbe interactions
 - Multi-omics and computational biology
+## Repositories
+## Reproducibility
 
+We are committed to **open and reproducible science**.
+
+Where possible, repositories include:
+
+- analysis scripts
+- software environments
+- workflow documentation
+- example datasets or simulated data
+- citation information
+
+## Funding
+
+Supported by:
+
+- **APC Microbiome Ireland**
+- **University College Cork**
+- **Science Foundation Ireland**
+- **European Research Council**
+
+  
 ## Publications
 
 Recent publications can be found on my [Google Scholar](https://scholar.google.com/cer=3SiQStcAAAAJ).
