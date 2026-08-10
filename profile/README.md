@@ -1,3 +1,4 @@
+![Cryan Lab Banner](./cryan-lab-banner.jpg)
 ## Cryan Lab
 Our lab is located at [APC Microbiome Ireland](https://www.ucc.ie/en/apc/) in University College Cork, Ireland. Our research is focused on understanding the interaction between brain, gut and microbiome and how it applies to stress, psychiatric and immune-related disorders at key time-windows across the lifespan. 
 
