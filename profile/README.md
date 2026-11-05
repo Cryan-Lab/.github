@@ -84,6 +84,6 @@ We welcome enquiries from prospective PhD students, postdoctoral researchers and
 
 ## Connect
 
-- 🌐 Lab website
-- 🐦 Bluesky/X
-- 📚 Google Scholar
+- 🌐 [Cryan Lab – University College Cork](YOUR_LAB_WEBSITE_URL)
+- 📧 [Contact the Lab](mailto:cryanlab@ucc.ie)
+- 📚 [Prof. John F. Cryan – Google Scholar](https://scholar.google.com/citations?user=3SiQStcAAAAJ&hl=en)
