@@ -13,7 +13,17 @@ Our research investigates interactions between the brain, gut and microbiome, an
 - 💊 Psychobiotics
 - 🧬 Neurodevelopment
 - 🧪 Translational neuroscience
+- 
+## Our Team
 
+Our multidisciplinary team brings together expertise in neuroscience, microbiology, molecular biology, bioinformatics and computational biology.
+
+Team members contribute to research across experimental science, data analysis and computational approaches.
+
+- **Principal Investigator:** Prof. John F. Cryan
+- **Bioinformatics and Computational Biology:** [Add relevant team members]
+- **Research Staff and Postdoctoral Researchers:** [Add names or link to lab website]
+- **PhD Researchers:** [Add names or link to lab website]
 ## Current Projects
 
 - Microbiome and mental health
