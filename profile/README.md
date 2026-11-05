@@ -41,9 +41,11 @@ Supported by:
 - **European Research Council**
 
   
-## Publications
+## Publications and Research Profiles
 
-Recent publications can be found on my [Google Scholar](https://scholar.google.com/cer=3SiQStcAAAAJ).
+Recent publications can be found on my Publications & Research Profiles
+
+- [Prof. John F. Cryan – Google Scholar](https://scholar.google.com/citations?user=3SiQStcAAAAJ&hl=en)
 
 ## Opportunities
 
