@@ -13,7 +13,7 @@ Our research investigates interactions between the brain, gut and microbiome, an
 - 💊 Psychobiotics
 - 🧬 Neurodevelopment
 - 🧪 Translational neuroscience
-- 
+
 ## Our Team
 
 Our multidisciplinary team brings together expertise in neuroscience, microbiology, molecular biology, bioinformatics and computational biology.
