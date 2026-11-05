@@ -31,7 +31,25 @@ Team members contribute to research across experimental science, data analysis a
 - Early-life stress
 - Host–microbe interactions
 - Multi-omics and computational biology
-## Repositories
+## Research Repositories
+Our GitHub organisation hosts code and resources supporting research within the Cryan Lab.
+
+### Bioinformatics and Data Analysis
+- 16S rRNA sequencing analysis
+- Shotgun metagenomics
+- Microbiome data analysis
+- Metabolomics and multi-omics integration
+
+### Experimental Research
+- Molecular biology protocols
+- qPCR and gene expression analysis
+- Experimental data analysis
+
+### Research Resources
+- Analysis workflows
+- Reusable scripts
+- Example datasets
+
 ## Reproducibility
 
 We are committed to **open and reproducible science**.
